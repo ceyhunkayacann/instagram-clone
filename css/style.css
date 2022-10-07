@@ -1,0 +1,48 @@
+body{
+    background-color: #FAFBFC !important;
+}
+
+.profileImg {
+    border-radius: 100%;
+    max-width: 40px;
+    padding: 2px;
+    
+}
+
+.iconImg{
+    border-radius: 100%;
+    max-width: 25px;
+}
+
+.baseCon {
+    margin-top: 86px;
+}
+
+.sug-icon {
+    border-radius: 100%;
+    max-width: 40px;
+}
+
+.rightColumn {
+    font-size: 14px;
+}
+
+.card * {
+    font-size: 14px;
+}
+
+.instaLogo {
+    margin-left: 130px;
+}
+
+.right-icons{
+    margin-right: 140px;
+}
+
+.story-img{
+    border-radius: 100%;
+    max-width: 58px;
+    padding: 2px;
+}
+
+
